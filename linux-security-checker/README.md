@@ -81,7 +81,7 @@ crashing.
 ### Clone & run directly
 
 ```bash
-git clone https://github.com/your-username/linux-security-checker.git
+git clone https://github.com/utkudemir0x/linux-security-checker.git
 cd linux-security-checker
 python3 main.py scan
 ```
